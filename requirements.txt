@@ -1,0 +1,6 @@
+ezdxf>=1.4
+pymupdf>=1.24
+shapely>=2.0
+# cadastre module (kataster.py)
+pyproj>=3.6
+mapbox-vector-tile>=2.0

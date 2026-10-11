@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+out/
+*.scaled.json
+kataster_*.json
+kataster_*.dxf
+kataster_*.pdf
+kataster_*.png
